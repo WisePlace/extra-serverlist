@@ -14,7 +14,10 @@ All of this is layered directly on top of the vanilla server list — your real 
 
 ## Screenshots
 
-*(add screenshots here)*
+<img width="1915" height="898" alt="image" src="https://github.com/user-attachments/assets/58c408bd-acfd-49b3-ab35-dcc18804ee15" />
+<img width="638" height="341" alt="image" src="https://github.com/user-attachments/assets/69a15309-e06a-41b8-98b8-1a896c03548b" />
+<img width="524" height="353" alt="image" src="https://github.com/user-attachments/assets/22256cb9-69c5-4bbe-b970-cd1ae4a69b58" />
+
 
 ## Requirements
 
