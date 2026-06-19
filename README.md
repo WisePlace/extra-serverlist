@@ -35,12 +35,14 @@ All of this is layered directly on top of the vanilla server list — your real 
 If you'd like to modify or build the mod yourself:
 
 ```bash
-git clone https://github.com/LukaLaurent/extra-serverlist.git
+git clone https://github.com/WisePlace/extra-serverlist.git
 cd extra-serverlist
 ./gradlew build
 ```
 
-The built jar will be in `build/libs/`. To run a test instance directly:
+The built jar will be in `build/libs/`.
+
+To run a test instance directly:
 
 ```bash
 ./gradlew runClient
