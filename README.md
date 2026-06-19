@@ -33,6 +33,12 @@ All of this is layered directly on top of the vanilla server list — your real 
 4. Place it in your `.minecraft/mods` folder.
 5. Launch Minecraft using the Fabric profile.
 
+## Modify Tags Manually
+
+If you wish to remove all tags from a server or from all servers, you can do so from the configuration file directly :
+
+`.minecraft\config\extra-serverlist-tags.json`
+
 ## Building from source
 
 If you'd like to modify or build the mod yourself:
