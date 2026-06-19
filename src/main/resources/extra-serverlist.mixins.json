@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "extraserverlist.core.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"MultiplayerScreenMixin",
+		"ServerEntryMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
