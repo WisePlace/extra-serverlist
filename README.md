@@ -35,7 +35,7 @@ All of this is layered directly on top of the vanilla server list — your real 
 
 ## Modify Tags Manually
 
-If you wish to remove all tags from a server or from all servers, you can do so from the configuration file directly :
+If you wish to remove all tags from a server or from all servers, you can do so from the configuration file directly:
 
 `.minecraft\config\extra-serverlist-tags.json`
 
@@ -60,3 +60,5 @@ To run a test instance directly:
 ## License
 
 Released under [CC0-1.0](LICENSE) — free to use, modify, and redistribute.
+
+## For any requests regarding this Minecraft Add-on, you can contact me directly
